@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import './Banner.css';
-import axios from "c:/Users/HP/Desktop/Evangadi/Phase-4/Netflix-Clone/Netflix/src/utils/axios";
+import axios from "../../utils/Axios";
 import requests from "../../utils/Requests";
 
 const Banner = () => {
